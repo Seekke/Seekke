@@ -15,9 +15,9 @@
    Projetos abertos que uso diariamente:   <br></br>
      https://github.com/omriharel/deej 🎚️   <br></br>
      https://github.com/spicetify 💽   <br></br>
+     https://www.rainmeter.net/ ⚙️ <br></br>
      https://www.blender.org/ 🖼️   <br></br>
      https://github.com/qmk ⌨️   <br></br>
-
   Qualquer dia desses eu documento e posto o projeto do meu teclado custom 😉 
 ##
 
